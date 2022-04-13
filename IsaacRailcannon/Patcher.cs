@@ -19,7 +19,7 @@ namespace UltraIsaacAudio
     {
         static void Postfix(Railcannon __instance)
         {
-            AudioClip clip = Plugin.AudioAssetBundle.LoadAsset<AudioClip>("dogma_brimstone.wav"); 
+            AudioClip clip = Plugin.AudioAssetBundle.LoadAsset<AudioClip>("dogma_brimstone_short_(no head).wav"); 
             __instance.fireSound.GetComponent<AudioSource>().clip = clip;
         }
     }
