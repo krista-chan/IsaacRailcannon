@@ -4,7 +4,7 @@ This mod replaces the base railcannon audio with the Dogma brimstone laser audio
 
 ## Installation
 
-- Download the `IsaacRailcannon.zip` from the [latest release](https://github.com/krista-chan/IsaacRailcannon/releases/tag/v0.1.0)
+- Download the `IsaacRailcannon.zip` from the [latest release](https://github.com/krista-chan/IsaacRailcannon/releases/tag/v0.1.1)
 - Unzip in your BepInEx directory
 - Play!
 
